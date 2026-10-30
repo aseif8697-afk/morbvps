@@ -1,0 +1,11 @@
+panel_data/
+users_data/
+backups/
+temp/
+__pycache__/
+*.pyc
+*.db
+*.json
+*.log
+.env
+.git/
